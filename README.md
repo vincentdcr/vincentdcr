@@ -21,6 +21,8 @@ Over the years, I found a lot of things that I quite enjoy about programming, bu
 
 Below, you will find some of the projects I have worked on recently, those include a basic memory allocator written in C, a 2D Java game made with a squad of 7 other people over the span of 3 weeks and an OpenGL engine programmed in the same amount of time.
 
+You can also check out my portfolio where I present some of them : [Here](./Portfolio.pdf)
+
 ### Contact 📫
 
 If you would like to contact me, please use the following links :
